@@ -1,0 +1,39 @@
+.main-container{
+    height: 655px;
+    width: 1620px;
+    background: #FFBD9E;
+    position: relative;
+    .window{
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        &__buttons{
+            position: absolute;
+            top: 90%;
+            left: 43.5%;
+            display: flex;
+        }
+    }
+}
+.window__container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: translate;
+    transition-property: transform;
+    transition-duration: 300ms;
+}
+
+.arrow{
+   cursor: pointer;
+   &-left{
+    margin-right: 25px;
+    cursor:pointer
+   }
+   &-right{
+    cursor:pointer
+   }
+}
+

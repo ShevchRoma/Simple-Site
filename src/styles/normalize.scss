@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    list-style: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 56px;
+    text-transform: capitalize;
+    color: hsl(233, 20%, 17%);
+  }
+
+img {
+    vertical-align: top;
+}
+body {
+    height: 100%;
+    line-height: 1;
+    font-size: 16px;
+    color: #000;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    font-family: 'Poppins';
+    background: #fff;
+}
+.wrapper {
+    max-width: 1440px;
+    overflow: hidden;
+}
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
+     @media(max-width: 1150px){
+        padding: 0 10px;
+    }
+    /* because padding 18px I add on 867px inside blocks */
+    @media(max-width: 878px){
+        padding: 0 0px;
+    }
+
+}

@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5f264bd.css",
+    "main.js": "/static/js/main.71692785.js",
+    "static/js/787.c88b47d7.chunk.js": "/static/js/787.c88b47d7.chunk.js",
+    "static/media/card 3.png": "/static/media/card 3.28efe60453d5a90f1c3d.png",
+    "static/media/card 2.png": "/static/media/card 2.540534450c5dada42926.png",
+    "static/media/img 3.png": "/static/media/img 3.f86eff6b6dfc1d1627ea.png",
+    "static/media/card-main.png": "/static/media/card-main.c17766a3e30992dcfe7d.png",
+    "static/media/img 1.png": "/static/media/img 1.eb77c265cfca5e56fec3.png",
+    "static/media/img2.png": "/static/media/img2.7346a169ad78b436f037.png",
+    "static/media/card 1.png": "/static/media/card 1.40992587c2f1bf52d314.png",
+    "static/media/card 4.png": "/static/media/card 4.9146e143ab89b2203ad3.png",
+    "static/media/Parrot.png": "/static/media/Parrot.eaabad4017de7597df0c.png",
+    "static/media/Headline.png": "/static/media/Headline.b330c98743d52eb94895.png",
+    "static/media/Card.svg": "/static/media/Card.bfe8b1a56c77df07d1a638f696b7b686.svg",
+    "static/media/LinkedIn.svg": "/static/media/LinkedIn.d5ed69dce5a2b082cfb2d227a706b9d8.svg",
+    "static/media/Logo.svg": "/static/media/Logo.cf8efec9abbf7af826512b47eef50377.svg",
+    "index.html": "/index.html",
+    "static/media/team-cover1.svg": "/static/media/team-cover1.02b911983d87b2c74719.svg",
+    "static/media/team-cover2..svg": "/static/media/team-cover2..99cb81c438dd7914d41c.svg",
+    "static/media/Chevron Right.svg": "/static/media/Chevron Right.470ace87081d5262196a82e7316a9d07.svg",
+    "static/media/Chevron Left.svg": "/static/media/Chevron Left.eafa10f24575307a3ef1c50bb972c25f.svg",
+    "static/media/Btn-close.svg": "/static/media/Btn-close.3c94373bca1c7b750a2893cdd9b9813e.svg",
+    "static/media/leaf2.svg": "/static/media/leaf2.1700ae261abd9ab731f098f914a724e9.svg",
+    "static/media/leaf.svg": "/static/media/leaf.b993e697d0acbdcc2fe163a981169264.svg",
+    "static/media/locationSvg.svg": "/static/media/locationSvg.fc131d571c5d4c2a1ac87bb03cb6060c.svg",
+    "static/media/Btn-open.svg": "/static/media/Btn-open.afad1591d5d763f97cf97585c8f1ce01.svg",
+    "main.b5f264bd.css.map": "/static/css/main.b5f264bd.css.map",
+    "main.71692785.js.map": "/static/js/main.71692785.js.map",
+    "787.c88b47d7.chunk.js.map": "/static/js/787.c88b47d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f264bd.css",
+    "static/js/main.71692785.js"
+  ]
+}
